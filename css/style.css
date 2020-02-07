@@ -239,13 +239,13 @@ header .navbar .dropdown-menu a {
   min-height: 700px;
 }
 
-.owl-carousel.home-slider .slider-item .slider-text h1 {
-  font-size: 72px;
-  color: #fff;
-  line-height: 1.2;
-  font-weight: 300;
-  padding-left:500px;
-}
+    .owl-carousel.home-slider .slider-item .slider-text h1 {
+        font-size: 72px;
+        color: #25394c;
+        line-height: 1.2;
+        font-weight: 300;
+        padding-left: 350px;
+    }
 
 @media (max-width: 991px) {
   .owl-carousel.home-slider .slider-item .slider-text h1 {
