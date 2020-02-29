@@ -263,9 +263,16 @@ header .navbar .dropdown-menu {
 }
 
 .owl-carousel.home-slider.inner-page .slider-item {
-    height: calc(50vh - 117px);
+ 
     min-height: 500px;
+   
 }
+.a:hover .image {
+    opacity: 0.3;
+
+}
+
+
 
     .owl-carousel.home-slider.inner-page .slider-item .slider-text {
         color: #fff;
